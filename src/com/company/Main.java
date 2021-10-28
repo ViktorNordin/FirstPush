@@ -19,6 +19,7 @@ public class Main {
         for (Thing p:personer) {
             System.out.println(p);
             System.out.println(p);
+            System.out.println(p);
         }
 
     }
